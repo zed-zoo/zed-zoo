@@ -1,16 +1,25 @@
-## Hi there 👋
+# Привет! Я Ярослав 👋
 
-<!--
-**zed-zoo/zed-zoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Студент 2-го курса ПГНИУ. Увлекаюсь низкоуровневой разработкой, компьютерной графикой и созданием мобильных и десктопных приложений.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Мои основные проекты
+
+* 🎮 **[Raycaster_Cpp](https://github.com/zed-zoo/Raycaster_Cpp)** — псевдотрёхмерный движок на **C++** и **SFML**. Реализовал рендеринг стен методом Raycasting (как в старых 3D-играх), процедурную генерацию лабиринтов, физику столкновений и звуки.
+
+* ⚡ **[CppPSU](https://github.com/zed-zoo/CppPSU)** — приложение под **Android** для визуализации алгоритмов сортировки. Вся математика и алгоритмы вынесены в нативное ядро на **C++** для высокой скорости работы и связываются с интерфейсом на **Kotlin** через **JNI**.
+
+* ⚙️ **[Automator](https://github.com/zed-zoo/Automator)** — десктопное приложение для автоматизации рутинных задач. Написано на **Java** с GUI на **JavaFX** и сборкой через **Gradle**.
+
+---
+
+### 💻 С чем я работаю
+
+* **Языки:** C++, Java, Kotlin, Dart, Python
+* **Технологии и фреймворки:** SFML, JavaFX, Jetpack Compose, Flutter, JNI
+* **Окружение:** Linux (Arch / Ubuntu), macOS, Git, Docker
+
+---
+
+📫 **GitHub:** [@zed-zoo](https://github.com/zed-zoo)
